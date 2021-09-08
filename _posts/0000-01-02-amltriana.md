@@ -1,5 +1,9 @@
 layout: slide
 
+Listas de tareas:
+- [x] This is a complete item
+- [ ] This is an incomplete item
+
 # "Bienvenido a nuestro segundo diapositiva !!!"
 Start lines with a `#` to create headings.
 
