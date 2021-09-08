@@ -18,5 +18,12 @@ Alternativamente
   - Así
   - Y esto
 
+Codigo fuente:
+
+```javascript
+var cadena = "Hola desde JavaScript";
+document.write("Valor de la cadena " + cadena);
+```
+
 Use the left arrow to go back!
 
