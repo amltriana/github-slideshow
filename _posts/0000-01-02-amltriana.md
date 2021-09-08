@@ -8,7 +8,15 @@ Es muy fácil hacer que algunas palabras estén en **negrita** y otras en *cursi
 
 * Start a line with a star
 * Profit!
-* 
+
+### una lista:
+
+Alternativamente
+
+- Los guiones funcionan igual de bien
+- Y si tienes subpuntos, pon dos espacios antes del guión o la estrella:
+  - Así
+  - Y esto
 
 Use the left arrow to go back!
 
