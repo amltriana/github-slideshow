@@ -1,6 +1,6 @@
 layout: slide
 
-# title: "Bienvenido a nuestro segundo diapositiva !!!"
+# "Bienvenido a nuestro segundo diapositiva !!!"
 Start lines with a `#` to create headings.
 
 ### This is a third-tier heading
